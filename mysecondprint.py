@@ -1,0 +1,8 @@
+print('Do Calculations please...')
+print('2 + 3 = ', 2+3)
+print('2 - 3 = ', 2-3)
+print('22 + 33 = ', 22+33)
+print('-2 + 3 = ', -2+3)
+print('10 + 30 = ', 10+30)
+print('25 + 35 = ', 25+35)
+print('20 - 3 = ', 20-3)
